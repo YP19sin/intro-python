@@ -1,0 +1,4 @@
+t=float(input("entrez votre taille en m : "))
+m=int(input("entrez votre masse en kg : "))
+imc=m/t**2
+print(imc)
