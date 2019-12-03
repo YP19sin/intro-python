@@ -28,7 +28,7 @@ def triangle(n):
 		print("\r") 
 
 # Driver Code 
-n = int(input("dema"))
+n = int(input("entrer le nombres d'étages"))
 triangle(n) 
 
   
